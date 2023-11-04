@@ -12,3 +12,19 @@
 .zaui-list-item {
   cursor: pointer;
 }
+
+/* Define a CSS class for the normal state */
+.button-normal {
+  background-color: #026D4D;
+  color: #fff;
+  margin-top: 16px;
+  cursor: pointer; /* Add pointer cursor to indicate it's clickable */
+}
+
+/* Define a CSS class for the disabled state */
+.button-disabled {
+  background-color: #ccc; /* Change to the color you want for the disabled state */
+  color: #666; /* Change to the color you want for the disabled state */
+  margin-top: 16px;
+  cursor: not-allowed; /* Add not-allowed cursor to indicate it's not clickable */
+}
