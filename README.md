@@ -1,4 +1,20 @@
-# Nhà Giá Rẻ
+# nha_gia_re_mini_app - Zalo Mini App for Service Subscription
+
+## Introduction
+
+*nha_gia_re_mini_app* is a Zalo Mini App designed to provide a convenient way to subscribe to service packages for the *nha_gia_re* application. Users can easily access, explore, and select from a range of service packages, making it a seamless experience to access premium features within *nha_gia_re*.
+
+## Features
+
+The *nha_gia_re_mini_app* offers the following key features:
+
+1. **View Service Packages:** Explore a variety of service packages offered by *nha_gia_re*, each with its unique features and benefits.
+
+2. **Select and Purchase:** Choose a service package that best suits your needs and complete the payment process securely.
+
+3. **Blog Access (In Development):** Stay updated with the latest blogs and news from *nha_gia_re*. [Link to *nha_gia_re* Blogs](https://example.com/nha_gia_re_blogs)
+
+<img src="./images/GIF-231105_102450.gif" height=500px>
 
 ## ZMP CLI Options
 
